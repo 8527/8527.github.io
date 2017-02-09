@@ -11,7 +11,7 @@ header-img: "img/green.jpg"
 # 联系方式
 
 *   Email：schweibeyond@gmail.com
-*   QQ：346448002
+*   QQ：3460149507
 
 * * *
 
