@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "Life is short,you nedd python"
+description: "Life is short,you need python"
 header-img: "img/green.jpg"
 ---
 
