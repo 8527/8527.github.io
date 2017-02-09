@@ -1,8 +1,8 @@
 # Site settings
-title: MoCushle
+title: Mocushle's
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "MoCushle|You Are No.1"  
+description: "Mocushle's|You Are No.1"  
 baseurl: ""
 url: "http://MoCushle.github.io"  
 
@@ -44,7 +44,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "MoCushle"
+      author: "Mocushle"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
