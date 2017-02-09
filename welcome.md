@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "Hanson's World"
+description: "Welcome to MoCushle's Blog"
 ---
 
 {% for post in paginator.posts %}
