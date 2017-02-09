@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "Life is short,you need python"
+description: "Hungry and Foolish"
 header-img: "img/zhihu.jpg"
 ---
 
