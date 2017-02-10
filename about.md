@@ -18,7 +18,7 @@ header-img: "img/green.jpg"
 # 个人信息
 
 *   schweibeyond/男/1995
-*   本科/guet 
-*   Github: <https://github.com/MoCushle>
+*   本科/桂林电子科技大学（GUET）
+*   Github: <https://github.com/8527>
 
 * * *
