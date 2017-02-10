@@ -1,10 +1,10 @@
 # Site settings
-title: Mocushle's
+title: Schweiger's
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Mocushle's|You Are No.1"  
+description: "Schweiger's|Hungry and Foolish"  
 baseurl: ""
-url: "http://MoCushle.github.io"  
+url: "http://8527.github.io"  
 
 # About/contact
 owner: 
@@ -18,7 +18,7 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: MoCushle
+github_username: 8527
 weibo_username: 
 facebook_username:
 zhihu_username: 
@@ -51,9 +51,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : MoCushle
+    short_name : 8527
   disqus :
-      short_name : MoCushle
+      short_name : 8527
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
