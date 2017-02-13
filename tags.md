@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "This is a list of my articles"  
-header-img: "img/semantic.jpg"  
+header-img:   
 ---
 
 # 本页使用方法
