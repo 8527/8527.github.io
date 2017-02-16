@@ -8,3 +8,46 @@ description: ubuntu16.04的那些事儿
 
 ---
 
+这是我的第一篇博客
+这学期第一次接触linux，第一次接触ubuntu，感觉用的很爽，并且作为一个程序猿，以后基本都会在linux下开发，就开始鼓捣起ubuntu来。
+我是在虚拟机VMware12上安装的ubuntu16.04镜像，第一次装的时候没有设置成中文，导致后面一直在网上查找把里面的名称换成中文的，然后设置搜狗输入法，等等。。。
+我在此就要把之前的那些坑写下来供以后参考。
+废话不多说了，现在开始正题。
+我先来写写打造完美的ubuntu开发环境吧。对一般人来说，总喜欢自己的系统看起来和用起来和别人不一样。
+我一开始弄的是mac主题，后来感觉在有点装哈，然后就在网上看到了基于gnome3的numix主题，最后把两者结合起来。
+ 
+ 一些安装前的准备
+ 
+ 切换到root用户：
+ sudo su
+ (这时系统会要你输入密码，但密码不会在屏幕上显示，到时候不要以为自己没有输)
+ 添加源：
+ add-apt-repository ppa:noobslab/macbuntu
+ 
+ 更新源：
+ apt update
+ 
+ 下载主题（这里我们不下载mac的图标）：
+ apt install macbuntu-os-ithemes-lts-v7
+ 卸载命令:
+ cd /usr/share/icons/mac-cursors && sudo ./uninstall-mac-cursors.sh
+ apt remove macbuntu-os-ithemes-lts-v7
+
+ 安装plank:
+ apt install plank
+ 
+ 安装修改工具：
+ apt install unity-tweak-tool
+ apt install gnome-tweak-tool
+ 
+ 修改主题#
+
+找到下载的壁纸，选择一张喜欢的设置成背景
+
+按win键，打开搜索，搜索unity-tweak-tool并打开：
+
+主题选择Macbuntu-os
+
+图标选择Macbuntu-os
+
+指针选择Mac-cursors
