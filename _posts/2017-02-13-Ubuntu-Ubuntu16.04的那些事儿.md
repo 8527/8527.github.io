@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Ubuntu16.04的那些事儿
+title: Ubuntu-Ubuntu16.04的那些事儿
 date: 2017-02-13
 categories: blog
 tages: [Ubuntu]
-description: ubuntu的那些事儿
+description: ubuntu16.04的那些事儿
 
 ---
+
