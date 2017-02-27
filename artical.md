@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Archive"
+title: "Artical"
 description: "What you see is my article"
 header-img: 
 ---
