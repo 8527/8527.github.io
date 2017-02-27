@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "Life is short,you need python"
+description: "Stay Hungry , Stay Foolish"
 header-img: 
 ---
 
