@@ -18,7 +18,7 @@ header-img:
 
 # 个人信息
 
-*  schweiger/男/1995
+*   schweiger/男/1995
 *  本科/桂林电子科技大学（GUET）
 *  Github: <https://github.com/8527>
 
