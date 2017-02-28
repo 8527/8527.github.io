@@ -13,8 +13,18 @@ header-img:
 3. 相关的文章会「唰」地一声跳到页面顶端
 4. 马上试试？
 
-# 基因列表
+<!--
+#How to use it.
 
+1.Choose a word you like below.
+2.Click it.
+3.Related articals will brush to the top of the page.
+4.why not try it now?
+
+
+# lists
+-->
+#列表
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
