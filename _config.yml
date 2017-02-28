@@ -1,5 +1,5 @@
 # Site settings
-title: Schweiger's
+title: "Schweiger's Blog"
 header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "Schweiger's|Hungry and Foolish"  
@@ -10,7 +10,7 @@ url: "http://8527.github.io"
 owner: 
   name: "schweiger"
   email: schweibeyond@gmail.com
-  bio: ""
+  bio: "Stay Hungry,stay Foolish"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
