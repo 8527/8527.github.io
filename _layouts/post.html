@@ -15,7 +15,7 @@ layout: default
                 <div class="post-heading">
                     <div class="Tags">
                         {% for tag in page.tags %}
-                        <a class="tag" href="/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
+                        <a class="tag" href="/Tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
                         {% endfor %}
                     </div>
                     <h1>{{ page.title }}</h1>
@@ -54,30 +54,6 @@ layout: default
                     </li>
                     {% endif %}
                 </ul>
-
-                <!-- Duoshuo Share start -->
-                <style>
-                    .ds-share{
-                        text-align: right;
-                    }
-                    
-                    @media only screen and (max-width: 700px) {
-                        .ds-share {
-
-                        }
-                    }
-                </style>
-<!-- async load function -->
-<script>
-    function async(u, c) {
-      var d = document, t = 'script',
-          o = d.createElement(t),
-          s = d.getElementsByTagName(t)[0];
-      o.src = u;
-      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
-      s.parentNode.insertBefore(o, s);
-    }
-</script>
 
 <!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->
 <script>
