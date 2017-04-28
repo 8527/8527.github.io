@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "Stay Hungry , Stay Foolish"
-header-img: 
+header-img: "img/shan.jpg"
 
 ---
 
