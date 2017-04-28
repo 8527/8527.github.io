@@ -54,7 +54,8 @@ layout: default
                     </li>
                     {% endif %}
                 </ul>
-
+                
+{% if site.anchorjs %}
 <!-- async load function -->
 <script>
     function async(u, c) {
@@ -89,5 +90,4 @@ layout: default
         }
     }
 </style>
-
-
+{% endif %}
