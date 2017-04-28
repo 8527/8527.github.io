@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "This is a list of my articles"  
-header-img: "img/shan.jpg" 
+header-img: "img/shan2.jpg" 
 
 ---
 
