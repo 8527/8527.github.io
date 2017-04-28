@@ -1,6 +1,7 @@
 ---
 layout: page
 description: "Welcome to Schweiger's Blog"
+header-img: "img/shan.jpg"
 ---
 
 {% for post in paginator.posts %}
