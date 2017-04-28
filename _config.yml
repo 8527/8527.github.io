@@ -1,6 +1,6 @@
 # Site settings
 title: "Schweiger's"
-header-img: "img/facebook.jpg"
+header-img: "img/shan.jpg"
 tagline: "cn"  
 description: "Schweiger's|Hungry and Foolish"  
 baseurl: ""
@@ -45,16 +45,17 @@ defaults:
     values:
       layout: "post"
       author: "Schweiger"
-      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/shan.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
-comments :
-  provider : duoshuo
-  duoshuo :
-    short_name : 8527
-  disqus :
-      short_name : 8527
 
+#comments :
+#  provider : duoshuo
+#  duoshuo :
+#    short_name : 8527
+#  disqus :
+#      short_name : 8527
+      
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
 google_verify:
