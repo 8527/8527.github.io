@@ -2,7 +2,7 @@
 layout: page
 title: "Artical"
 description: "What you see is my article"
-header-img: 
+header-img: "img/shan.jpg" 
 ---
 
 
